@@ -1,2 +1,3 @@
 Conhecendo a ferramenta GIT
 Pronto já entendi *-*
+Entendendo essa parte bem
